@@ -1,0 +1,8 @@
+📝 Token for ashok
+⏰ Time: 2025-02-05 17:47:35
+🔹 Method: Face Recognition
+🍚 Items:
+👉 Dal: 6.68 kg
+👉 Rice: 9.77 kg
+👉 Wheat: 4.42 kg
+👉 Sugar: 2.85 kg
