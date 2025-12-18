@@ -134,6 +134,3 @@ GitHub: [https://github.com/aswathy-17-s](https://github.com/aswathy-17-s)
 
 ---
 
-## ⭐ Support
-
-If you find this project useful, please ⭐ the repository on GitHub!
